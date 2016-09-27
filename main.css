@@ -1,0 +1,22 @@
+body{
+background-image:url("./images/background.svg");
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: contain;
+
+}
+.title{
+  font-style: italic;
+  font-weight: bold;
+  font-family: cursive;
+}
+h1{
+  font-size: 42;
+  text-align: center;
+  text-shadow: blue;
+  background-color:FF822E;
+  text-decoration: underline;
+}
+h2{
+  font-weight: 100;
+}

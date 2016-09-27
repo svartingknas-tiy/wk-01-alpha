@@ -3,6 +3,7 @@ background-image:url("./images/background.svg");
 background-repeat: no-repeat;
 background-attachment: fixed;
 background-size: contain;
+background-position: center;
 
 }
 .title{
@@ -15,8 +16,35 @@ h1{
   text-align: center;
   text-shadow: blue;
   background-color:FF822E;
+  margin: auto;
 }
 h2{
-  padding: 20em, 10em, 
+  padding: 20em, 10em;
+  border-color: FF822E;
+  border-radius:20px;
+  border-style: solid;
+  border-color: black;
+  text-align: center;
+  text-shadow: orange;
+  background-color: orange;
+}
+img {
+  margin:auto;
+  display: block;
+}
+#resources{
+  font-style: italic;
 
+}
+
+.percent{
+  width: 60%;
+  height: auto;
+}
+
+span{
+  font-size: 1.5rem;
+  font-style: italic;
+  font-weight: bold;
+  color: currentColor;
 }

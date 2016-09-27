@@ -1,0 +1,15 @@
+a {
+  color: black;
+}
+a:visited{
+  color: mediumspringgreen;
+}
+a:hover{
+  color: transparent;
+}
+a:focus {
+  background-color: darkorange;
+}
+a:active{
+  background-color: red;
+}

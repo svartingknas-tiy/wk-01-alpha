@@ -28,6 +28,13 @@ h2{
   text-shadow: orange;
   background-color: orange;
 }
+
+h3, p{
+  font-weight: bolder;
+  font-style: oblique;
+
+
+}
 img {
   margin:auto;
   display: block;

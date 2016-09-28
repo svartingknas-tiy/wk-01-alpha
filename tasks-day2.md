@@ -6,32 +6,32 @@ Without worrying about positioning, have fun styling your "wk-01-alpha" project,
   - [x] class
   - [x] id
   - [ ] distinct nested element and class combination (i.e. if applied to element _or_ class _alone_ then additional nodes would be also be styled;  e.g. `p a`)
-  - [ ] shared styles (e.g. `p, a`)
+  - [x] shared styles (e.g. `p, a`)
 - Add styling including at least one instance for each of these **properties**:
-  - [ ] width
-  - [ ] height
-  - [ ] display
-  - [ ] margin
+  - [x] width
+  - [x] height
+  - [x] display
+  - [x] margin
   - [x] padding
   - [x] border
   - [x] border-radius
   - [x] background-color
   - [x] background-image
-  - [ ] color
+  - [x] color
   - [x] font-size
   - [x] font-style
   - [x] text-align
   - [x] font-weight
   - [x] text-decoration
 - Use the following measurements at least once:
-  - [ ] px
-  - [ ] %
-  - [ ] rem
+  - [x] px
+  - [x] %
+  - [x] rem
   - [x] em
 - [x] Modify each of the four different anchor states
 - Make
   - [x] small and frequent git commits
-  - [ ] with messages following the basic AngularJS Git Commit Msg Convention style (per [Git Commit Messages](https://karma-runner.github.io/1.0/dev/git-commit-msg.html))
+  - [x] with messages following the basic AngularJS Git Commit Msg Convention style (per [Git Commit Messages](https://karma-runner.github.io/1.0/dev/git-commit-msg.html))
 - [x] Ensure you've set the GitHub pages to use your "master branch".
 
 ****
@@ -46,4 +46,4 @@ _**Skilled Sorcerers && Wise Wizards**_
 
 _**EVERYONE**_
 
-- [ ] Ensure you submit both the GitHub repo url (e.g. https://github.com/[username]-tiy/wk-01-alpha) as your "Assignment URL" _and_ the GitHub pages url (e.g. https://[username]-tiy.github.io/wk-01-alpha) in the notes area.
+- [x] Ensure you submit both the GitHub repo url (e.g. https://github.com/[username]-tiy/wk-01-alpha) as your "Assignment URL" _and_ the GitHub pages url (e.g. https://[username]-tiy.github.io/wk-01-alpha) in the notes area.

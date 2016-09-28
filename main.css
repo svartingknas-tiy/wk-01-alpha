@@ -4,6 +4,9 @@ background-repeat: no-repeat;
 background-attachment: fixed;
 background-size: contain;
 background-position: center;
+background-color: lightblue;
+font-family: Monospace;
+color: black;
 
 }
 .title{
@@ -11,12 +14,14 @@ background-position: center;
   font-weight: bold;
   font-family: cursive;
 }
+
 h1{
   font-size: 42;
   text-align: center;
-  text-shadow: blue;
+  text-shadow: 5px;
   background-color:FF822E;
   margin: auto;
+
 }
 h2{
   padding: 20em, 10em;
@@ -35,18 +40,19 @@ h3, p{
 
 
 }
+
+.cards{
+  display: inline;
+}
 img {
   margin:auto;
   display: block;
+  width: 300px;
+  height: auto;
 }
 #resources{
   font-style: italic;
 
-}
-
-.percent{
-  width: 60%;
-  height: auto;
 }
 
 span{
@@ -54,4 +60,36 @@ span{
   font-style: italic;
   font-weight: bold;
   color: currentColor;
+}
+
+ul#menu li {
+    display:inline;
+    float: left;
+    padding-right: 10px;
+    text-align: left;
+    text-transform: uppercase;
+    text-decoration: overline;
+
+  }
+
+
+.buttons {
+  float: right;
+}
+
+header {
+  padding: 20em, 10em;
+  border-color: FF822E;
+  border-radius:20px;
+  border-style: solid;
+  border-color: black;
+  text-align: center;
+  text-shadow: orange;
+  background-color: orange;
+  padding: 2em;
+}
+
+
+.floatdivs {
+  float: left;
 }

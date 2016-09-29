@@ -52,6 +52,10 @@ img{
 #resources{
   font-style: italic;
   float:left;
+  text-align: center;
+  font-size: 32;
+  font-weight: bolder;
+
 }
 
 span{

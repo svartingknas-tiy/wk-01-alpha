@@ -41,18 +41,15 @@ h3, p{
 
 }
 
-.cards{
-  display: inline;
-}
 img {
   margin:auto;
   display: block;
   width: 300px;
   height: auto;
 }
+
 #resources{
   font-style: italic;
-
 }
 
 span{
@@ -74,7 +71,9 @@ ul#menu li {
 
 
 .buttons {
-  float: right;
+  display: inline;
+  float: left;
+  margin: 0 10px 10px 0;
 }
 
 header {
@@ -89,7 +88,49 @@ header {
   padding: 2em;
 }
 
-
-.floatdivs {
-  float: left;
 }
+/*
+.box-100-percent{
+  background: Chocolate;
+  border: 1px solid SaddleBrown;
+  color: black;
+  height: 100px;
+  width: 100%;
+}
+
+/*Floats
+
+.float-left{
+  float: left;
+  margin: 0 10px 10px 0;
+}
+
+.float-right{
+  float: right;
+  margin: 0 0 10px 10px;
+}
+
+
+
+ /*Clear */
+
+.clear{
+  clear: both;
+}
+
+
+
+ /*Nicks Clearfix Hack
+   http://nicolasgallagher.com/micro-clearfix-hack/
+*
+
+.cf:before,
+.cf:after {
+    content: " ";
+    display: table;
+}
+
+.cf:after {
+    clear: both;
+}
+*/
